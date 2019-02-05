@@ -57,3 +57,4 @@ buck-out/
 trash
 /package-lock.json
 /yarn.lock
+/ChangeLog.md
